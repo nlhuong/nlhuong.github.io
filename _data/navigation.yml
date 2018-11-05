@@ -1,11 +1,14 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/
-    
+
   - title: "Résumé"
     url: /assets/resumes/resume.pdf
   # - title: "Photography"

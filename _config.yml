@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Lan Huong Nguyen"
   avatar           : "/assets/images/lans_avatar.png"
-  bio              : "PhD student in Computational Mathematics at Stanford University."
-  location         : "Stanford University"
+  bio              : "PhD student in Computational Mathematics."
+  location         : "Palo Atlo, CA"
   email            : "lanhuong@stanford.edu"
   links:
     - label: "GitHub"
@@ -113,7 +113,7 @@ author:
       url: "https://github.com/nlhuong"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/lan-huong-nguyen"
+      url: "https://linkedin.com/in/lan-huong-nguyen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nlanhuong"
@@ -133,15 +133,18 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nlhuong"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/lan-huong-nguyen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      #url: "https://github.com/nlhuong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

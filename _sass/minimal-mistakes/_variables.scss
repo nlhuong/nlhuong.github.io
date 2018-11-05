@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 12 !default;
+$doc-font-size: 16 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -14,8 +14,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Lato", "Geneva", "Tahoma",
-sans-serif !default;
+$sans-serif: "Lato", "Geneva", "Tahoma",sans-serif !default;
 // $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
 //   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
@@ -44,6 +43,7 @@ $type-size-5: 1em !default; // ~16px
 $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
+
 
 /*
    Colors
@@ -142,9 +142,10 @@ $x-large: 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 300px !default;
+$right-sidebar-width: 400px !default;
+$right-sidebar-width-wide: 500px !default;
+
 
 /*
    Other

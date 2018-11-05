@@ -1,8 +1,6 @@
 ---
 title: "About"
-layout: single
-author_profile: true
-class: wide
+permalink: /about/
 ---
 
 

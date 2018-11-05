@@ -20,15 +20,17 @@
 }
 
 .page {
+
   @include breakpoint($large) {
-    float: right;
+    float: left;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: calc(#{$right-sidebar-width-narrow}/2);
   }
 
   @include breakpoint($x-large) {
+    float: left;
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    padding-right: calc(#{$right-sidebar-width-narrow}/2);
   }
 
   .page__inner-wrap {
@@ -92,6 +94,7 @@
   }
 
   a:not(.btn) {
+    text-decoration: none;
     &:hover {
       text-decoration: underline;
 
