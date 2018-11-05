@@ -6,11 +6,11 @@ class: wide
 ---
 
 
-I am a PhD student in Institute of Computational and Mathematical Engineering at
-Stanford University working with  [Prof. Susan
+I am a PhD candidate in Computational Mathematics at Stanford University working
+with  [Prof. Susan
 Holmes](https://statweb.stanford.edu/~susan/susan_person.html). My research
 focuses on statistical methods for analyzing high-dimensional heterogeneous data
-mostly with applications for genomics and microbiome.
+with applications to genomics and microbiome.
 
 My interests include:
 - non-linear dimensionality reduction methods
