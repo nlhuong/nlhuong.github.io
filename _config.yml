@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lan's personal website"
+title                    : "Lan Huong Nguyen"
 title_separator          : "|"
 name                     : "Lan Huong Nguyen"
 description              : "Lan's personal website."
@@ -24,7 +24,7 @@ url                      : "https://nlhuong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/home"
 repository               : "nlhuong/nlhuong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true #, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -57,9 +57,9 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+atom_feed                : false  
+#  path                   : # blank (default) uses feed.xml
+search                   : true #false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,14 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "Lan Huong Nguyen"
-  avatar           : "assets/images/lans_avatar.jpg"
-  bio              : "I am a PhD student in Institute of Computational and MathematicalEngineering at Stanford University. I work with Prof. Susan Holmes on developing methods for analyzing high-dimensional data from genomics and microbiome studies. I focus on developing methods for time series analysis and dimensionality reduction methods for data exhibiting continuous latent gradients that provide uncertainty estimates. I also study properties (stability, robustness etc.) of other non-linear DR methods."
+  avatar           : "./assets/images/lans_avatar.png"
+  bio              : "PhD student in Computational Mathematics at Stanford University."
   location         : "Stanford University"
   email            : "lanhuong@stanford.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:lanhuong@stanford.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://nlhuong.gihub.io"
@@ -285,6 +285,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
