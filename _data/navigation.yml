@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: /_pages/about.md
-  # - title: "Research"
-  #   url: https://nlhuong.github.io/about/
-  # - title: "Teaching"
-  #   url: /year-archive/
-  - title: "CV"
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Résumé"
     url: /assets/resumes/resume.pdf
   # - title: "Photography"
   #   url: /collection-archive/

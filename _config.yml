@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lan Huong Nguyen"
+title                    : "LHN"
 title_separator          : "|"
 name                     : "Lan Huong Nguyen"
 description              : "Lan's personal website."
@@ -24,7 +24,7 @@ url                      : "https://nlhuong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/home"
 repository               : "nlhuong/nlhuong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : true #, false (default)
+breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -57,8 +57,8 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed                : false
-#  path                   : # blank (default) uses feed.xml
+atom_feed                :
+  path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
@@ -108,24 +108,27 @@ author:
   location         : "Stanford University"
   email            : "lanhuong@stanford.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:lanhuong@stanford.edu
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nlhuong.gihub.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nlhuong"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/lan-huong-nguyen"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nlanhuong"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:lanhuong@stanford.edu
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://nlhuong.gihub.io"
 
 # Site Footer
 footer:
@@ -138,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nlhuong"
+      #url: "https://github.com/nlhuong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -278,7 +281,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -287,5 +290,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
+      share: false
       related: true
