@@ -29,5 +29,5 @@ at California Institute of Technology, where my advisor was
 I am a co-founder and a core member of [WiMSCE: Women in Mathematics,
 Statistics, and Computational Engineering](https://wimsce.stanford.edu/).
 
-In 2016-2017, I was a co-president and a financial officer for
+In 2016-2018, I was a co-president and a financial officer for
 [Stanford Polish Student Association](https://orgsync.com/79672/chapter).
