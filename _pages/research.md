@@ -11,12 +11,10 @@ preparation)
 - **Gut microbiota plasticity correlated with
 sustained weight loss after a low-carb or low-fat dietary intervention.**
 J.A. Grembi, L.H. Nguyen, T.D. Haggerty, C.D. Gardner, S.P. Holmes
-and J. Parsonnet. (In preparation) [[preprint]
-(https://nlhuong.github.io/assets/docs/microbiome-plasticity.pdf)]
+and J. Parsonnet. (In preparation) [[preprint](https://nlhuong.github.io/assets/docs/microbiome-plasticity.pdf)]
 
 - **Ten quick tips for effective dimensionality reduction.**
-L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted) [[preprint]
-(https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
+L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted) [[preprint](https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
 
 - **Bayesian Unidimensional Scaling for visualizing uncertainty in high
 dimensional datasets with latent ordering of observations**
