@@ -11,7 +11,7 @@ preparation)
 - **Gut microbiota plasticity correlated with
 sustained weight loss after a low-carb or low-fat dietary intervention.**
 J.A. Grembi, L.H. Nguyen, T.D. Haggerty, C.D. Gardner, S.P. Holmes
-and J. Parsonnet. (In preparation) [[preprint](https://nlhuong.github.io/assets/docs/microbiome-plasticity.pdf)]
+and J. Parsonnet. (In preparation) [[preprint](https://doi.org/10.1101/580217)]
 
 - **Ten quick tips for effective dimensionality reduction.**
 L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted) [[preprint](https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
