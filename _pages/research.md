@@ -5,25 +5,33 @@ permalink: /research/
 
 ## Publications
 
-- **Diffusion t-SNE for manifold learning**. L.H. Nguyen, S. Holmes. (In
-preparation)
-
-- **Gut microbiota plasticity correlated with
-sustained weight loss after a low-carb or low-fat dietary intervention.**
-J.A. Grembi, L.H. Nguyen, T.D. Haggerty, C.D. Gardner, S.P. Holmes
-and J. Parsonnet. (Submitted) [[preprint](https://doi.org/10.1101/580217)]
+- **Diffusion t-SNE for manifold learning**. L.H. Nguyen, S. Holmes.
+[[preprint](https://nlhuong.github.io/assets/docs/diffusion-tsne-neurips.pdf)].
 
 - **Ten quick tips for effective dimensionality reduction.**
-L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted) [[preprint](https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
+L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted)
+[[preprint](https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
 
 - **Bayesian Unidimensional Scaling for visualizing uncertainty in high
 dimensional datasets with latent ordering of observations**
 L.H. Nguyen., S. Holmes. BMC Bioinformatics (2017) 18 (Suppl 10) :394
 [[link](https://doi.org/10.1186/s12859-017-1790-x)]
 
+- **Chromosome-level de novo assembly of the pig-tailed macaque genome using
+linked-read sequencing and HiC proximity scaffolding.**
+M. Roodgar, A. Babveyh, L. H. Nguyen, et al.
+[[preprint](https://www.biorxiv.org/content/10.1101/635045v1)]
+
+- **Gut microbiota plasticity correlated with
+sustained weight loss after a low-carb or low-fat dietary intervention.**
+J.A. Grembi, L.H. Nguyen, T.D. Haggerty, C.D. Gardner, S.P. Holmes
+and J. Parsonnet. (Submitted) [[preprint](https://doi.org/10.1101/580217)]
+
 - **Optimal uncertainty quantification with model uncertainty and legacy data.**
 P.H.T. Kamga, B. Li, M. McKerns, L.H. Nguyen, M. Ortiz, H. Owhadi,
-and T.J. Sullivan. Journal of the Mechanics and Physics of Solids, 72 (2014) [[link](http://dx.doi.org/10.1016/j.jmps.2014.07.007)]
+and T.J. Sullivan. Journal of the Mechanics and Physics of Solids, 72 (2014)
+[[link](http://dx.doi.org/10.1016/j.jmps.2014.07.007)]
+
 
 
 ## Software
