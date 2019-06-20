@@ -9,8 +9,8 @@ permalink: /research/
 [[preprint](https://nlhuong.github.io/assets/docs/diffusion-tsne-neurips.pdf)].
 
 - **Ten quick tips for effective dimensionality reduction.**
-L.H. Nguyen, S. Holmes. PLOS Computationa Biology (Accepted)
-[[preprint](https://nlhuong.github.io/assets/docs/ten-tips-for-dr.pdf)].
+L.H. Nguyen, S. Holmes. PLOS Computationa Biology (2019)
+[[link](https://doi.org/10.1371/journal.pcbi.1006907)].
 
 - **Bayesian Unidimensional Scaling for visualizing uncertainty in high
 dimensional datasets with latent ordering of observations**
@@ -19,13 +19,13 @@ L.H. Nguyen., S. Holmes. BMC Bioinformatics (2017) 18 (Suppl 10) :394
 
 - **Chromosome-level de novo assembly of the pig-tailed macaque genome using
 linked-read sequencing and HiC proximity scaffolding.**
-M. Roodgar, A. Babveyh, L. H. Nguyen, et al.
+M. Roodgar, A. Babveyh, L. H. Nguyen, et al. (under review)
 [[preprint](https://www.biorxiv.org/content/10.1101/635045v1)]
 
 - **Gut microbiota plasticity correlated with
 sustained weight loss after a low-carb or low-fat dietary intervention.**
 J.A. Grembi, L.H. Nguyen, T.D. Haggerty, C.D. Gardner, S.P. Holmes
-and J. Parsonnet. (Submitted) [[preprint](https://doi.org/10.1101/580217)]
+and J. Parsonnet. (under review) [[preprint](https://doi.org/10.1101/580217)]
 
 - **Optimal uncertainty quantification with model uncertainty and legacy data.**
 P.H.T. Kamga, B. Li, M. McKerns, L.H. Nguyen, M. Ortiz, H. Owhadi,
